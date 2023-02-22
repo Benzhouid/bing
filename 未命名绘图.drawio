@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T08:49:20.918Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="zqAaY-lwhvuxq5-FhgGM" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T08:52:46.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="wDNdo5r8GwP1_N4gprTr" version="20.8.22" type="github">
   <diagram id="Udj0moHvdJkmtZv1i4Dm" name="第 1 页">
     <mxGraphModel dx="2394" dy="2464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -40,10 +40,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="50" y="-340" width="310" height="620" as="geometry" />
+          <mxGeometry x="40" y="-340" width="370" height="740" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Exchange 服务器&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_mailbox_server;" parent="1" vertex="1">
-          <mxGeometry x="80" y="90" width="90" height="100" as="geometry" />
+          <mxGeometry x="90" y="170" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9673a6;strokeWidth=4;fontSize=20;fillColor=#e1d5e7;startArrow=classic;startFill=1;" parent="1" source="WRViUmnpg-N0fgN5oUnf-4" target="WRViUmnpg-N0fgN5oUnf-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Exchange服务器&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_mailbox_server;" parent="1" vertex="1">
-          <mxGeometry x="250" y="90" width="90" height="100" as="geometry" />
+          <mxGeometry x="230" y="170" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.93;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#009900;fontSize=11;strokeWidth=3;" parent="1" source="WRViUmnpg-N0fgN5oUnf-5" target="WRViUmnpg-N0fgN5oUnf-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;AD控制器&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.active_directory_federation_services_server_blue;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-70" width="110" height="115" as="geometry" />
+          <mxGeometry x="140" y="-10" width="110" height="115" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1120" y="550" width="220" height="150" as="geometry" />
@@ -97,6 +97,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160.03999999999996" y="-241" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="160" y="-240" />
               <mxPoint x="160" y="-270" />
               <mxPoint x="587" y="-270" />
             </Array>
@@ -108,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-186" width="30" height="31" as="geometry" />
+          <mxGeometry x="120" y="-186" width="30" height="31" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.enterprise;pointerEvents=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="90" y="-450" width="50" height="85" as="geometry" />
@@ -235,7 +236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-68" value="网易AD&lt;br&gt;中间件" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux_server;strokeWidth=8;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="250" y="-225" width="60" height="70" as="geometry" />
+          <mxGeometry x="320" y="-225" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-70" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;" parent="1" source="WRViUmnpg-N0fgN5oUnf-1" target="WRViUmnpg-N0fgN5oUnf-4" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -247,7 +248,7 @@
           <mxGeometry x="180" y="160" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-73" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-186" width="30" height="31" as="geometry" />
+          <mxGeometry x="290" y="-110" width="30" height="31" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000CC;strokeWidth=3;fontSize=11;" parent="1" source="WRViUmnpg-N0fgN5oUnf-79" target="WRViUmnpg-N0fgN5oUnf-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -261,10 +262,10 @@
           <mxGeometry x="1380" y="392.5" width="50" height="55" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-118" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/group-customers-team-contacts-family-128.png;strokeColor=#4A4A4A;strokeWidth=8;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="230" y="5" width="40" height="40" as="geometry" />
+          <mxGeometry x="220" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-119" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;微软AD同步&lt;br&gt;服务器&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.windows_server;strokeWidth=8;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="120" y="-240" width="80" height="85" as="geometry" />
+          <mxGeometry x="75" y="-240" width="80" height="85" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-120" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/group-customers-team-contacts-family-128.png;strokeColor=#4A4A4A;strokeWidth=8;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1010" y="-413.75" width="40" height="40" as="geometry" />
@@ -321,6 +322,18 @@
         </mxCell>
         <mxCell id="fSdOwLghDvWBL0EnTMD--6" value="API集成企业系统\HRMS\OA..." style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
           <mxGeometry x="1600" y="-862.7" width="87" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOwLghDvWBL0EnTMD--8" value="网易AD&lt;br&gt;中间件" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux_server;strokeWidth=8;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-225" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOwLghDvWBL0EnTMD--9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1" source="fSdOwLghDvWBL0EnTMD--8" target="WRViUmnpg-N0fgN5oUnf-68">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="270" y="-199.5" as="sourcePoint" />
+            <mxPoint x="320" y="-195.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOwLghDvWBL0EnTMD--10" value="&lt;br&gt;中间件高可用" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-225" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
