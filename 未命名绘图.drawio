@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T08:52:46.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="wDNdo5r8GwP1_N4gprTr" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T08:53:09.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="b3YmcI-tUwMo442wBskm" version="20.8.22" type="github">
   <diagram id="Udj0moHvdJkmtZv1i4Dm" name="第 1 页">
     <mxGraphModel dx="2394" dy="2464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -248,7 +248,7 @@
           <mxGeometry x="180" y="160" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-73" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-110" width="30" height="31" as="geometry" />
+          <mxGeometry x="260" y="-180" width="30" height="31" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000CC;strokeWidth=3;fontSize=11;" parent="1" source="WRViUmnpg-N0fgN5oUnf-79" target="WRViUmnpg-N0fgN5oUnf-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -334,6 +334,9 @@
         </mxCell>
         <mxCell id="fSdOwLghDvWBL0EnTMD--10" value="&lt;br&gt;中间件高可用" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=8;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="265" y="-225" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOwLghDvWBL0EnTMD--12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-180" width="30" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
