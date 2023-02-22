@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T10:11:23.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="B65tzYUtkWRkjmF2wlq4" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T08:49:20.918Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="zqAaY-lwhvuxq5-FhgGM" version="20.8.22" type="github">
   <diagram id="Udj0moHvdJkmtZv1i4Dm" name="第 1 页">
-    <mxGraphModel dx="2123" dy="2557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2394" dy="2464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WRViUmnpg-N0fgN5oUnf-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="800" y="-610" width="720" height="370" as="geometry" />
+          <mxGeometry x="800" y="-610" width="1000" height="360" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="800" y="610" width="720" height="90" as="geometry" />
@@ -90,7 +90,7 @@
         <mxCell id="WRViUmnpg-N0fgN5oUnf-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1120" y="550" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="WRViUmnpg-N0fgN5oUnf-18" value="本地数据中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WRViUmnpg-N0fgN5oUnf-18" value="AWS云" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="50" y="-420" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.38;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#d6b656;strokeWidth=4;fontSize=11;fillColor=#fff2cc;" parent="1" source="WRViUmnpg-N0fgN5oUnf-119" target="WRViUmnpg-N0fgN5oUnf-45" edge="1">
@@ -307,6 +307,20 @@
         </mxCell>
         <mxCell id="WRViUmnpg-N0fgN5oUnf-138" value="Office365" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=8;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1189.8600000000001" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOwLghDvWBL0EnTMD--1" value="网易企业邮箱API&lt;br&gt;对外开放平台" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.smtp_server;strokeWidth=8;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="-500" width="95" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOwLghDvWBL0EnTMD--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSdOwLghDvWBL0EnTMD--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1665" y="-740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOwLghDvWBL0EnTMD--4" value="API接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="-710" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOwLghDvWBL0EnTMD--6" value="API集成企业系统\HRMS\OA..." style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-862.7" width="87" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
